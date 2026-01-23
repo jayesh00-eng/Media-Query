@@ -1,0 +1,26 @@
+@media (min-width:576px) {
+   .col{
+    width: 100%;
+   }
+}   
+@media (min-width:768px) {
+   .col-2{
+    width: 50%;
+    }
+ }
+@media (min-width:992px) {
+    .col-3{
+        width: 33.33%;
+    }
+}
+@media (min-width:1200px) {
+    .col-4{
+        width: 25%;
+    }
+}
+@media (min-width:1400px) {
+    .col-5{
+        width: 16.67%;
+    }
+
+}
